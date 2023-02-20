@@ -17,6 +17,9 @@ Now Standardized by the European Computer Manufacturers Association as ECMA-262
 An HTML -  embedded scripting language
 We’ll call collections of JavaScript code scripts, not programs
 
+*** Data types in JavaScript
+I. Primitive Types: numbers, strings, boolean, null, undefined
+Ii. Composite/Non-Primitive Types: objects, arrays
 
 *** What is JavaScript?
 JavaScript is a high-level, interpreted programming language that makes web pages more interactive. It lets you implement complex and beautiful things/designs on web pages.
