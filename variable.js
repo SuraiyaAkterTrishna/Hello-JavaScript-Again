@@ -36,6 +36,12 @@ No return & Has parameter
 Has return & No parameter
 No return & No parameter
 
+
+*** Array vs Object
+Different syntax
+Array stores data in ordered(sequential) collection. This is not true for object.
+Data can be accessed in the array using the numerical index. [0],[1],...[n]. For object values are accessed calling keys.
+
 */
 
 
