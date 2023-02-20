@@ -18,6 +18,10 @@ An HTML -  embedded scripting language
 We’ll call collections of JavaScript code scripts, not programs
 
 
+*** What is JavaScript?
+JavaScript is a high-level, interpreted programming language that makes web pages more interactive. It lets you implement complex and beautiful things/designs on web pages.
+
+
 */
 
 
