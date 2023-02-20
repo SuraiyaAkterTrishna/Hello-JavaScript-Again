@@ -8,6 +8,9 @@ A variable is a value that can change, depending on conditions or on information
 4. Value (specifies the value to assign to the variable
 5. Semicolon ; (use a semicolon to indicate the end of var statement)
 
+Note:  A variable declared without a value will have the value undefined.
+
+
 */
 
 
