@@ -10,6 +10,13 @@ A variable is a value that can change, depending on conditions or on information
 
 Note:  A variable declared without a value will have the value undefined.
 
+*** Origins of Javascript
+Originally developed by Netscape, as LiveScript
+Became a joint venture of Netscape and Sun in 1995, renamed JavaScript
+Now Standardized by the European Computer Manufacturers Association as ECMA-262
+An HTML -  embedded scripting language
+We’ll call collections of JavaScript code scripts, not programs
+
 
 */
 
