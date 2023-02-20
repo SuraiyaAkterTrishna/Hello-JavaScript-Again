@@ -24,6 +24,10 @@ Ii. Composite/Non-Primitive Types: objects, arrays
 *** What is JavaScript?
 JavaScript is a high-level, interpreted programming language that makes web pages more interactive. It lets you implement complex and beautiful things/designs on web pages.
 
+*** What is Function in JavaScript?
+A block of code
+A set of statements (subprogram/block of code) that performs a task when it is called.
+Maintains a relationship with input and output.
 
 */
 
