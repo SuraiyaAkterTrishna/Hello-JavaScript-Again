@@ -29,13 +29,11 @@ A block of code
 A set of statements (subprogram/block of code) that performs a task when it is called.
 Maintains a relationship with input and output.
 
-
 *** 4 types of function:
 Has return & Has parameter
 No return & Has parameter
 Has return & No parameter
 No return & No parameter
-
 
 *** Array vs Object
 Different syntax
