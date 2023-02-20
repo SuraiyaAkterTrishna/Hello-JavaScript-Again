@@ -12,3 +12,5 @@ A variable is a value that can change, depending on conditions or on information
 
 
 var name = "Rony";
+var age = 16;
+var isFat = false;
