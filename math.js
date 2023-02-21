@@ -11,3 +11,9 @@ var previousFishPrice = 350;
 
 var revenueOfFish = fishPrice - previousFishPrice;
 // console.log(revenueOfFish);
+
+// multiplication
+var projectExpectedHour = 48;
+var paymentPerHour = 240;
+var totalPaid = projectExpectedHour * paymentPerHour;
+console.log(totalPaid);
