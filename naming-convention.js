@@ -15,3 +15,4 @@ var club99 = 1964;
 //5. variable naming convention
 var my_home_address = "Khulna"; //snake case
 var myHomeAddress = "Khulna"; //camel case
+var MyHomeAddress = "Khulna"; //pascal case
