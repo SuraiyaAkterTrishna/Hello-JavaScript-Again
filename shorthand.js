@@ -12,5 +12,9 @@ var price2 = 80;
 
 // set a new value
 price1 = 90;
+// console.log(price1);
+
+// add some value to the existing value
+price1 = price1 + 100;
 console.log(price1);
 
