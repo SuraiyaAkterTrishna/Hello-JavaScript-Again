@@ -16,5 +16,9 @@ price1 = 90;
 
 // add some value to the existing value
 price1 = price1 + 100;
-console.log(price1);
+// console.log(price1);
 
+// addition to the same variable shorthand
+// += means adding some value to the existing value
+price1 += 20;
+console.log(price1);
