@@ -16,4 +16,10 @@ var revenueOfFish = fishPrice - previousFishPrice;
 var projectExpectedHour = 48;
 var paymentPerHour = 240;
 var totalPaid = projectExpectedHour * paymentPerHour;
-console.log(totalPaid);
+// console.log(totalPaid);
+
+// division
+var totalMark = 900;
+var abirMark = 600;
+var percentage = (abirMark * 100) / totalMark;
+// console.log(percentage);
