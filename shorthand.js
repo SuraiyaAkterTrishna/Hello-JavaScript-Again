@@ -38,5 +38,10 @@ price1 /= 5;
 
 var tomato = 10;
 tomato = tomato + 1;
-tomato++;
-console.log(tomato);
+tomato++; // ++ means adding 1 to the existing
+// console.log(tomato);
+
+var apple = 200;
+apple = apple - 1;
+apple--; // -- means you are deducting 1 from the existing value;
+console.log(apple);
